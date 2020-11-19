@@ -6,7 +6,7 @@ def square_array(array)
     puts new_array.push(array [count] **2)
     count += 1
   end  # your code here
-  new_array
+
   array = [9, 10, 16, 25]
   new_array2 = []
   count = 0
@@ -14,5 +14,6 @@ def square_array(array)
     puts new_array2.push(array [count] **2)
     count += 1
   end  # your code here
+  new_array
   new_array2
 end
