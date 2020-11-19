@@ -1,6 +1,6 @@
 def square_array(array)
   array = [1, 2, 3]
-  new_array = [
+  new_array = []
   count = 0
   while count < array.length do
     puts new_array.push(array [count] **2)
