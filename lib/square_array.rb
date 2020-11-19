@@ -8,11 +8,11 @@ def square_array(array)
   end  # your code here
   new_array
   array = [9, 10, 16, 25]
-  new_array = []
+  new_array2 = []
   count = 0
   while count < array.length do
     puts new_array.push(array [count] **2)
     count += 1
   end  # your code here
-  new_array
+  new_array2
 end
