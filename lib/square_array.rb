@@ -11,7 +11,7 @@ def square_array(array)
   new_array2 = []
   count = 0
   while count < array.length do
-    puts new_array.push(array [count] **2)
+    puts new_array2.push(array [count] **2)
     count += 1
   end  # your code here
   new_array2
