@@ -9,7 +9,7 @@ new_array = []
   end  # your code here
   new_array
   array = [9, 10, 16, 25]
-  new_array = []
+  #new_array = []
 
     count = 0
     while count < array.length do
