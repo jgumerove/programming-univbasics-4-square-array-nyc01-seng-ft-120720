@@ -12,4 +12,5 @@ def square_array(array)
     puts array.push(new_array [count] ** 2)
     count += 1
   end
+  array
 end
