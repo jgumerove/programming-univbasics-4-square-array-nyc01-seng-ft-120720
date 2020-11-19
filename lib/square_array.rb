@@ -8,6 +8,6 @@ new_array = []
   count += 1
   end  # your code here
   new_array
-  array = [9, 10, 16, 25]
+#  array = [9, 10, 16, 25]
 
 end
