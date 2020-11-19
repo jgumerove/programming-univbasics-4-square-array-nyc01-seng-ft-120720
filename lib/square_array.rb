@@ -5,15 +5,8 @@ def square_array(array)
   while count < array.length do
     puts new_array.push(array [count] **2)
     count += 1
-  end  # your code here
-
-  array = [9, 10, 16, 25]
-  new_array2 = []
-  count = 0
-  while count < array.length do
-    puts new_array2.push(array [count] **2)
-    count += 1
-  end  # your code here
-  new_array
-  new_array2
+  end 
+  new_array # your code here
 end
+
+
