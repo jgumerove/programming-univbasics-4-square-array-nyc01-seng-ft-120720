@@ -16,5 +16,5 @@ new_array = []
     puts new_array.push(array [count] ** 2)
     count += 1
     end  # your code here
-    new_array
+    #new_array
 end
